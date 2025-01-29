@@ -13,6 +13,7 @@ let second = "name"
 let third = " is "
 let fullName = first + second + third + "Victor"
 console.log(fullName)
+
 // 4
 let userName = prompt("What's your name?")
 let payment = ("1,000,000$")
